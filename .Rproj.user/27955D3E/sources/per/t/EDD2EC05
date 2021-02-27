@@ -1,0 +1,26 @@
+{
+    "id": "EDD2EC05",
+    "path": "~/OneDrive - Universitat Ramón Llull/EsadeEcPol/datos/excessmortality/extraction-analysis.R",
+    "project_path": "extraction-analysis.R",
+    "type": "r_source",
+    "hash": "2453437257",
+    "contents": "",
+    "dirty": false,
+    "created": 1614360283472.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "148,43",
+        "scrollLine": "127"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1614361581,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1614361581216,
+    "read_only": false,
+    "read_only_alternatives": []
+}
